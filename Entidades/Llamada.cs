@@ -22,8 +22,12 @@ namespace CentralTelefonica.Entidades
             set { duracion = value;}
         }        
         public abstract double CalcularPrecio();
-        public override string ToString(){
-            return $" #Origen: {this.numeroOrigen} - #Destino: {this.numeroDestino} - Duracion: {this.duracion}";
-        }
+
+        public Llamada(){}
+
+        public Llamada(string numeroOrigen, string numeroDestino, double duracion) 
+            => (NumeroOrigen, NumeroDestino, Duracion) = (numeroOrigen, numeroDestino, duracion);
+
+        public override string ToString() => $" #Origen: {this.numeroOrigen} - #Destino: {this.numeroDestino} - Duracion: {this.duracion}";
     }
 }

@@ -9,3 +9,14 @@ C:\sabado\net\modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefon
 C:\sabado\net\modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfo.cs
 C:\sabado\net\modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.dll
 C:\sabado\net\modulos\I\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.pdb
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.deps.json
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.json
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.dev.json
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.dll
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.pdb
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.csprojAssemblyReference.cache
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.csproj.CoreCompileInputs.cache
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfoInputs.cache
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfo.cs
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.dll
+E:\Curso Full Stack .Net\Ejemplos\Modulo 2-1\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.pdb

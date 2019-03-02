@@ -20,7 +20,7 @@ namespace CentralTelefonica.Entidades
             get { return precioTres;}
             set { precioTres = value;}
         }
-        
+
         private int franja;
         public int Franja
         {
@@ -28,6 +28,9 @@ namespace CentralTelefonica.Entidades
             set { franja = value;}
         }
         
+        public LlamadaDepartamental(string numeroOrigen, string numeroDestino, double duracion)
+            => (NumeroOrigen, NumeroDestino, Duracion) = (numeroOrigen, numeroDestino, duracion);
+
         public override double CalcularPrecio(){
             double resultado = 0;
             if(this.Franja == 0){
